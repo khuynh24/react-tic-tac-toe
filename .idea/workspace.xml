@@ -43,8 +43,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="364" />
-    <option name="y" value="34" />
+    <option name="x" value="285" />
+    <option name="y" value="221" />
     <option name="width" value="1013" />
     <option name="height" value="709" />
   </component>
@@ -170,7 +170,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="364" y="34" width="1013" height="709" extended-state="0" />
+    <frame x="285" y="221" width="1013" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
